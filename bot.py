@@ -5,7 +5,7 @@ from telegram.ext import Application, MessageHandler, filters, ContextTypes
 # CONFIG
 API_KEY = "507938"
 API_SECRET = "WNt3F9cDPR74HnOVFbAl0ueatQquibix"
-BOT_TOKEN = "6529390402:AAHfTiJrKdMSH544cWB5Ck1Eez72aE5TPOE"
+BOT_TOKEN = "6529390402:AAHxlLXqrWiMNRqi6E0RXwk1S9GsMqfSAgc"
 
 def get_link(url):
     endpoint = "https://eco.aliexpress.com/router/rest"
